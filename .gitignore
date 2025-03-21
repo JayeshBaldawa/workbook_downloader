@@ -1,0 +1,5 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore .exe files
+*.exe
